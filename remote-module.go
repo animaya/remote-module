@@ -5,5 +5,5 @@ func Reverse(text string) string {
 	for _, char := range text {
 		result = string(char) + result
 	}
-	return result
+	return Bob
 }
